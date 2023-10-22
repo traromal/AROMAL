@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+}
+.logo{
+    align-self:left
+
+}
+header{
+    display:flex;
+    padding: 20px;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navlinks{
+    display:flex;
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+}
