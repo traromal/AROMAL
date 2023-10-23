@@ -30,12 +30,13 @@ header * {
 }
 .logo{
     padding: 50px;
+    color: blueviolet;
 }
 li{
     margin-right: 50px;
 }
 li a{
-    color: black;
+    color: EDB7ED;
     text-decoration: none;
     font-size: 16px;
 }
